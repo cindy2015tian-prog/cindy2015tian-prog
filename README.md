@@ -23,7 +23,7 @@ I use these tools to build my projects:
 
 ## 🚀 What I'm Up To
 * 🐍 **Python:** Leveling up my skills every day.
-* ✨ **Vibe Coding:** I’m currently learning what it means to be a "vibe coder"—stay tuned!
+* ✨ **Vibe Coding:** I’m currently learning what it means to be a "vibe coder", stay tuned!
 * ⚽ **Soccer:** Playing matches and staying active.
 * 🍕 **Food:** Always looking for the best snacks.
 
