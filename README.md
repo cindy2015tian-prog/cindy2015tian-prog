@@ -10,7 +10,7 @@ I am proud to have placed **🥉 3rd in the UK** in an **International Kids Codi
 ## 📊 My Coding Stats
 Here is a look at my coding journey so far:
 
-![Cindy's Stats](https://github-readme-stats.vercel.app/api?username=cindy2015tian-prog&show_icons=true&theme=tokyonight&count_private=true)
+![Cindy's Stats](https://github-readme-stats.vercel.app/api?username=cindy2015tian-prog&show_icons=true)
 
 ---
 
