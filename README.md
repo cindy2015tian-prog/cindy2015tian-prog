@@ -14,7 +14,7 @@ I am incredibly proud to have placed **🥈 2nd in the UK** in an **Internationa
 ---
 
 ## 📊 My Pink Coding Stats
-![Cindy's Stats](https://github-readme-stats.vercel.app/api?username=cindy2015tian-prog&show_icons=true&theme=pink)
+![Cindy's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cindy2015tian-prog&show_icons=true&theme=pink)
 
 ---
 
