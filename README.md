@@ -1,7 +1,7 @@
 # Hi, I'm Cindy (Tian Tian)! 👋 🐶 ⚽
 
 <p align="center">
-  <img src="./580.JPG" width="450" alt="Cindy the Vibe Coder" style="border-radius: 20px; border: 4px solid FFC0CB;">
+  <img src="./cindy_vibe_coder.png" width="450" alt="Cindy the Vibe Coder" style="border-radius: 20px; border: 4px solid FFC0CB;">
   <br>
   <em>"A 10-year-old vibe coder with my large pink headphones, prize-winning Python skills, and my dog!"</em>
 </p>
